@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Miles' website!"
+title:  "To Michelle"
 date:   2016-06-30 08:07:46 -0400
 categories: jekyll update
 ---
