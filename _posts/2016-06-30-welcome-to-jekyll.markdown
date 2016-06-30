@@ -5,7 +5,7 @@ date:   2016-06-30 08:07:46 -0400
 categories: jekyll update
 ---
 
-Look what I made for you my love :) 
+Look what I made for you :) 
 
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
