@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: list
 title:  "Beware the virtuous"
 date:   2016-06-30 08:07:46 -0400
 categories: jekyll update
