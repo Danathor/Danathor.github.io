@@ -9,7 +9,7 @@
 title: The beginning of the change
 email: m.zarantonello01@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Remember, the eighth circle of hell is reserved for liars, cheats, fraudsters, traitors, and civil servants. 
+  I hear Roman cavalry choirs singing. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
