@@ -24,7 +24,7 @@
   <div class = "container">
     <div class = "row text-center">
   <h2>Powerful coding skills</h2>
-      <h3>Will give us cool stuff</h3>
+      <h3>Will give us mighty abilities</h3>
       <a class="btn btn-primary" href="http://milestoneseducation.com/wp-content/uploads/2016/06/Books-bookshelf-person-head-540w.jpg" role="button">See all</a>                           
    </div>
    </div>
@@ -36,13 +36,13 @@
     <p>
       Lasers
      </p>
-     <img src = http://d2oah9q9xdinv5.cloudfront.net/images/games/1/19/18787/Shark_Fight.png />
+     <img src = "http://d2oah9q9xdinv5.cloudfront.net/images/games/1/19/18787/Shark_Fight.png" width="600" height="400"  />
     </figure>
     <figure class="col-sm-6">
     <p>
       Explosions
       </p>
-      <img src = http://www.mrwallpaper.com/wallpapers/Cosmic-explosions.jpg />
+      <img src = "http://www.mrwallpaper.com/wallpapers/Cosmic-explosions.jpg" width="600" height="400"  />
     </figure>
   </div>
   <div class="row"> 
@@ -50,13 +50,13 @@
    <p>
      Spaceships n stuff
    </p>
-   <img src = https://s-media-cache-ak0.pinimg.com/736x/08/80/58/0880584b2cb0934aff96b45acb344d83.jpg />
+   <img src = "https://s-media-cache-ak0.pinimg.com/736x/08/80/58/0880584b2cb0934aff96b45acb344d83.jpg" width="600" height="400"  />
     </figure>
     <figure class="col-sm-6">
    <p>
-      Cool characters running around and doing stuff
+      Cool characters running around and badassery
       </p> 
-      <img src = http://pre15.deviantart.net/2bdb/th/pre/i/2013/002/e/d/space_soldiers_by_carsonfackler-d5q84bf.jpg />
+      <img src = "http://pre15.deviantart.net/2bdb/th/pre/i/2013/002/e/d/space_soldiers_by_carsonfackler-d5q84bf.jpg" width="600" height="400"  />
     </figure>
   </div>
   </section>
