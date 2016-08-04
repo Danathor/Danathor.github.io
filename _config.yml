@@ -6,14 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Bold brathas
-email: m.zarantonello01@gmail.com
+title: Let it begin
+email: We should decide on a name first
 description: > # this means to ignore newlines until "baseurl:"
    Roman cavalry choirs singing. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: Some ugly twitter feed
-github_username:  Another one
+twitter_username: Another one
+github_username:  Some twitter feed
 
 # Build settings
 markdown: kramdown
