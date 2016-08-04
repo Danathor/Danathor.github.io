@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <head>
   <title> Game builder </title>
@@ -12,8 +13,8 @@
       <h1 class="col-sm-4">Game Builder</h1>
       <nav class="col-sm-8 text-right">
          <p>newest</p>
-      <p>catalogue</p> inline 
-      <p>contact</p> inline 
+      <p>catalogue</p> 
+      <p>contact</p>  
     </p>
       </nav>
   </div>
@@ -22,9 +23,9 @@
   <section class="jumbotron"> 
   <div class = "container">
     <div class = "row text-center">
-  <h2>Homemade Goods</h2>
-      <h3>This Year's Best</h3>
-      <a class="btn btn-primary" href="#" role="button">See all</a>                           
+  <h2>Powerful coding skills</h2>
+      <h3>Will give us cool stuff</h3>
+      <a class="btn btn-primary" href="http://milestoneseducation.com/wp-content/uploads/2016/06/Books-bookshelf-person-head-540w.jpg" role="button">See all</a>                           
    </div>
    </div>
   </section>
