@@ -34,29 +34,29 @@
    <div class="row">
    <figure class="col-sm-6">
     <p>
-      kitchen
+      Lasers
      </p>
-     <img src = https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/woodwork.jpg />
+     <img src = http://d2oah9q9xdinv5.cloudfront.net/images/games/1/19/18787/Shark_Fight.png />
     </figure>
     <figure class="col-sm-6">
     <p>
-      woodwork
+      Explosions
       </p>
-      <img src = https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/kitchen.jpg />
+      <img src = http://www.mrwallpaper.com/wallpapers/Cosmic-explosions.jpg />
     </figure>
   </div>
   <div class="row"> 
  <figure class="col-sm-6">
    <p>
-     gifts
+     Spaceships n stuff
    </p>
-   <img src = https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/gifts.jpg />
+   <img src = https://s-media-cache-ak0.pinimg.com/736x/08/80/58/0880584b2cb0934aff96b45acb344d83.jpg />
     </figure>
     <figure class="col-sm-6">
    <p>
-     antiques
+      Cool characters running around and doing stuff
       </p> 
-      <img src = https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/antique.jpg />
+      <img src = http://pre15.deviantart.net/2bdb/th/pre/i/2013/002/e/d/space_soldiers_by_carsonfackler-d5q84bf.jpg />
     </figure>
   </div>
   </section>
