@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
   <title> Game builder </title>
@@ -15,7 +14,6 @@
          <p>newest</p>
       <p>catalogue</p> 
       <p>contact</p>  
-    </p>
       </nav>
   </div>
   </header>
