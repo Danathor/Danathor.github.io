@@ -1,36 +1,64 @@
----
-layout: post
-title:  "Beware the virtuous"
-date:   2016-06-30 08:07:46 -0400
-categories: jekyll update
----
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Skillfair</title>
+  <meta charset="utf-8"/>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+  <link href='https://fonts.googleapis.com/css?family=Roboto:300,400,700' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" type="text/css" href="main.css">
+</head>
+<body>
+<header class="container">
+  	<div class="row">
+      <h1 class="col-sm-4">Skillfair</h1>
+      <nav class="col-sm-8 text-right">
+         <p>newest</p>
+      <p>catalogue</p>
+      <p>contact</p>
+        <p>trololo</p>
+      </nav>
+  </div>
+  </header>
 
-<ul>
-<li> Blind and cheap our peoples wander on, </li>
-<li> Mere apes like future and past gone. </li>
-<li> We are long for this world sure,  </li>
-<li> Ideals of honour, loyalty and truth lost in Megalopolis. </li>
+  <section class="jumbotron"> 
+  <div class = "container">
+    <div class = "row text-center">
+  <h2>Homemade Goods</h2>
+      <h3>This Year's Best</h3>
+      <a class="btn btn-primary" href="#" role="button">See all</a>                           
+   </div>
+   </div>
+  </section>
 
-<li>Materialism is no new god, but he is braver now.</li>
-<li>Mad as Hell Bealeites now distracted. </li>
-<li>Love of music, culture, and freedom hold, </li>
-<li>The freedom to cower, culture fed through copper.</li>
-
-<li> Clones in suits march our streets, </li>
-<li> Who take more than they give.</li>
-<li> Noble Lady Civitas surrendering her fruits, </li>
-<li> To neglectful husbands and wives. </li>
-
-<li> Heroes die young by selling out, </li>
-<li> Villains live to grow old and rich. </li>
-<li> Human nature is the enemy, adapted for the kill, </li>
-<li> Urges still rule, greed, fear and lust. </li>
-
-<li> So beware the virtuous, trust not the beautiful, </li>
-<li> Stand by your talent, your value, and honour. </li>
-<li> Strike down the crooked, be free from fear and greed, </li>
-<li> And make sure you look good naked before buying expensive clothes. </li>
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+  <section class ="container">
+   <div class="row">
+   <figure class="col-sm-6">
+    <p>
+      kitchen
+     </p>
+     <img src = https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/woodwork.jpg />
+    </figure>
+    <figure class="col-sm-6">
+    <p>
+      woodwork
+      </p>
+      <img src = https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/kitchen.jpg />
+    </figure>
+  </div>
+  <div class="row"> 
+ <figure class="col-sm-6">
+   <p>
+     gifts
+   </p>
+   <img src = https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/gifts.jpg />
+    </figure>
+    <figure class="col-sm-6">
+   <p>
+     antiques
+      </p> 
+      <img src = https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/antique.jpg />
+    </figure>
+  </div>
+  </section>
+</body>
+</html>
