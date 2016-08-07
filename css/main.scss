@@ -43,7 +43,9 @@ $on-laptop:        800px;
     }
 }
 
-
+title {
+  font-size: 48px;
+}
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
